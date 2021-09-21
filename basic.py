@@ -15,3 +15,7 @@ def subtraction(a, b):
 
 print(subtraction(7, 3))
     
+def multiply(a, b):
+    return a * b
+
+print(multiply(7, 3))
