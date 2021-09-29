@@ -14,8 +14,20 @@ def subtraction(a, b):
     return a - b
 
 print(subtraction(7, 3))
+<<<<<<< HEAD
     
 def multiply(a, b):
     return a * b
 
 print(multiply(7, 3))
+=======
+
+
+def divison(a, b):
+    if b == 0:
+        return 0
+    else:
+        return a / b
+
+print(divison(10, 0))    
+>>>>>>> feature/division
